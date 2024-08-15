@@ -1,0 +1,22 @@
+/* Saludo.css */
+.saludo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    padding: 10px 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: #333;
+    font-size: 20px;
+  }
+  
+  .saludo-text {
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  
+  .saludo-nombre {
+    color: #007bff;
+  }
